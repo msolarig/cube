@@ -1,10 +1,10 @@
 const std = @import("std");
 
-const cubeWidth: f32 = 20.0;
-const frameWidth = 160;
-const frameHeight = 44;
+const cubeWidth: f32 = 30.0;
+const frameWidth = 150;
+const frameHeight = 50;
 const distanceFromCamera: f32 = 100.0;
-const projectionScale: f32 = 40.0;
+const projectionScale: f32 = 50.0;
 const sideResolution: f32 = 0.5;
 const yScale: f32 = 0.8;
 
